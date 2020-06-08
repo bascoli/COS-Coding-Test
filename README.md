@@ -12,5 +12,5 @@ Create an Ensemble Production that will:
   
 ## Notes/Hints
 * Use Ensemble concepts wherever practical (business services/process/operations)
-* Our users to not utilize Ensemble to manage our application; we are looking for custom ObjectScript classes over business hosts with BPL/DTL logic 
+* Our users do not utilize the Ensemble Management Portal to manage our application; we are looking for custom ObjectScript classes over business hosts with BPL/DTL logic 
 * Don't have your own instance of Intersystems Iris/HealthConnect? Get the [community edition download](https://www.intersystems.com/developing-with-intersystems-iris/), use the cloud based learning lab, or [use the online IDE](https://www.intersystems.com/try-intersystems-iris-for-free/?source=Developer_Button) to get started right away
