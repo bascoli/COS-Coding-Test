@@ -1,6 +1,6 @@
 # COS-Coding-Test
 
-This is a coding exercise to test your skills in Intersystems Caché Object Script/Ensemble Frameworks. Please fork this repository to your GitHub page and commit your most readable and well organized "production-ready code". Here's the problem statement:
+This is a coding exercise to test your skills in Intersystems Caché Object Script/Ensemble Frameworks. Please fork this repository to your own GitHub page and commit your most readable and well organized "production-ready code". Here's the problem statement:
 
 ## Longest Palidrome
 
